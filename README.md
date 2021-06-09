@@ -1,4 +1,4 @@
-<img src="https://github.com/getuliogutemberg/getuliogutemberg/blob/main/GetulioBanner.png">
+<img src="https://github.com/getuliogutemberg/getuliogutemberg/blob/main/GetulioBannerAnimado.gif">
 
 ### Hi there 👋
 
