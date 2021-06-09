@@ -1,3 +1,5 @@
+<img src="https://github.com/getuliogutemberg/getuliogutemberg/blob/main/GetulioBanner.png">
+
 ### Hi there 👋
 
 <!--
