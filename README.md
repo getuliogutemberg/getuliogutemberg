@@ -10,12 +10,13 @@ Procuro evoluir como Desenvolvedor Web e entregar projetos de qualidade relevant
 <h3 align="left">Links:</h3>
 
 <p align="left">
-<a href="https://getuliogutemberg.github.io/CalculadoraIMC/" target="_blank"><img align="center" src="https://lh3.googleusercontent.com/proxy/UBMdDVezEp29hr6m6UzOZsCSFPeqpnSOjy6U-qpsigES5Y23Xn9oj2GeG4po2Y41mvSb847RMA55NOLqTQ6qqbKZ030912LojBAneRvip98xg53po0VaWNDGvh7wWQ9N" alt="getuliogutemberg" height="40" width="40" />Calculadora IMC</a> 
+  <a href="https://getuliogutemberg.github.io/CalculadoraIMC/" target="_blank"><img align="center" src="https://lh3.googleusercontent.com/proxy/UBMdDVezEp29hr6m6UzOZsCSFPeqpnSOjy6U-qpsigES5Y23Xn9oj2GeG4po2Y41mvSb847RMA55NOLqTQ6qqbKZ030912LojBAneRvip98xg53po0VaWNDGvh7wWQ9N" alt="getuliogutemberg" height="40" width="40" />Calculadora IMC</a> 
 <a href="https://getuliogutemberg.github.io/calculadora/" target="_blank"><img align="center" src="https://icons.veryicon.com/png/Application/Sevenesque%20(iOS%207%20inspired)/Calculator.png" alt="getuliogutemberg" height="40" width="40" />Calculadora</a>
 <a href="https://getuliogutemberg.github.io/cronometro/" target="_blank"><img align="center" src="https://images.vexels.com/media/users/3/153924/isolated/preview/4591355da4c62844fda2328fa8c2f200-stopwatch-colored-stroke-icon-sport-icons-by-vexels.png" alt="getuliogutemberg" height="40" width="40" />Cronômetro</a>
 <a href="https://getuliogutemberg.github.io/formularioClientes/" target="_blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/google-forms.png" alt="getuliogutemberg" height="40" width="40" />Formulário</a>
 <a href="https://getuliogutemberg.github.io/telaLogin/" target="_blank"><img align="center" src="https://images.vexels.com/media/users/3/135247/isolated/preview/e70a6296c2a79dc7a56ab05b103f38e8-user-sign-with-background-by-vexels.png" alt="getuliogutemberg" height="40" width="40" />Tela de Login</a>
-<a href="#" target="_blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/bike+biker+icon-1320087270520744410.png" alt="getuliogutemberg" height="40" width="40" />BikeFit(Em desenvolvimento!!!)</a>
+
+  <a href="#" target="_blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/bike+biker+icon-1320087270520744410.png" alt="getuliogutemberg" height="40" width="40" />BikeFit(Em desenvolvimento!!!)</a>
 
 </p>
 
