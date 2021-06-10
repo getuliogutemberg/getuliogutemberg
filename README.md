@@ -16,7 +16,7 @@ Procuro evoluir como Desenvolvedor Web e entregar projetos de qualidade relevant
 <a href="https://getuliogutemberg.github.io/formularioClientes/" target="_blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/google-forms.png" alt="getuliogutemberg" height="40" width="40" />Formulário</a>
 <a href="https://getuliogutemberg.github.io/telaLogin/" target="_blank"><img align="center" src="https://images.vexels.com/media/users/3/135247/isolated/preview/e70a6296c2a79dc7a56ab05b103f38e8-user-sign-with-background-by-vexels.png" alt="getuliogutemberg" height="40" width="40" />Tela de Login</a>
   
-  <a href="https://getuliogutemberg.github.io/cronometroV2.0/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/thesquid.ink/free-flat-sample/1024/apple-watch-blue-icon.png" alt="getuliogutemberg" height="40" width="40" />Cronômetro v2.0</a>
+  <a href="https://getuliogutemberg.github.io/cronometroV2.0/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/thesquid.ink/free-flat-sample/1024/apple-watch-blue-icon.png" alt="getuliogutemberg" height="40" width="40" />Cronômetro v2.0(em Progresso)</a>
 <a href="#" target="_blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/bike+biker+icon-1320087270520744410.png" alt="getuliogutemberg" height="40" width="40" />BikeFit(Em desenvolvimento!!!)</a>
 
 </p>
