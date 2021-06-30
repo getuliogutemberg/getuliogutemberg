@@ -10,7 +10,7 @@ Procuro evoluir como Desenvolvedor Web e entregar projetos de qualidade relevant
 <h3 align="left">Links:</h3>
 
 <p align="left">
-  <a href="https://getuliogutemberg.github.io/CalculadoraIMC/" target="_blank"><img align="center" src="https://pt.calcuworld.com/wp-content/uploads/sites/6/2019/07/imc-.png" alt="getuliogutemberg" height="40" width="40" />Calculadora IMC</a> 
+  <a href="https://2no.co/2FyuU5.apk" target="_blank"><img align="center" src="https://pt.calcuworld.com/wp-content/uploads/sites/6/2019/07/imc-.png" alt="getuliogutemberg" height="40" width="40" />Calculadora IMC</a> 
 <a href="https://getuliogutemberg.github.io/calculadora/" target="_blank"><img align="center" src="https://icons.veryicon.com/png/Application/Sevenesque%20(iOS%207%20inspired)/Calculator.png" alt="getuliogutemberg" height="40" width="40" />Calculadora</a>
 <a href="https://getuliogutemberg.github.io/cronometro/" target="_blank"><img align="center" src="https://images.vexels.com/media/users/3/153924/isolated/preview/4591355da4c62844fda2328fa8c2f200-stopwatch-colored-stroke-icon-sport-icons-by-vexels.png" alt="getuliogutemberg" height="40" width="40" />Cronômetro</a>
 <a href="https://getuliogutemberg.github.io/formularioClientes/" target="_blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/google-forms.png" alt="getuliogutemberg" height="40" width="40" />Formulário</a>
