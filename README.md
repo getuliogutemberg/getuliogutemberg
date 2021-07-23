@@ -1,11 +1,18 @@
 <img src="https://github.com/getuliogutemberg/getuliogutemberg/blob/main/GetulioBannerAnimado.gif">
 
-<p align="center">👷‍♂️Engenheiro civil por formação , apaixonado por inovação e sustentabilidade♻. 
-Pai de Pets😺 e Plantas🌻, acredito que temos muito a aprender com a natureza. 
-Atleta amador, meu passatempo preferido é o ciclismo de estrada🚴‍♂️.
-Curioso ‘até o talo’, busco entender e solucionar os problemas do cotidiano através da observação de processos e implementação da tecnologia💻.
-Instigado a resolver problemas, busco desafios que utilizam da tecnologia, criatividade e colaborativismo para propor novas perspectivas e soluções mais sustentáveis. O poder que a tecnologia tem de transformar a vida das pessoas, é o que me move. 
-Procuro evoluir como Desenvolvedor Web e entregar projetos de qualidade relevantes todos.</p>
+<p align="center">Olá,
+Me chamo Getúlio Gutemberg…
+Sou engenheiro civil por formação, apaixonado por inovação e sustentabilidade.
+Pai de Pets e Plantas.
+Atleta amador, meu passatempo preferido é o ciclismo de estrada.
+Curioso desde sempre, busco entender e solucionar os problemas do cotidiano através da observação
+de processos e implementação da tecnologia.
+Instigado a resolver problemas, busco desafios que utilizam da tecnologia, criatividade e
+colaboração para propor novas perspectivas e soluções mais sustentáveis.
+
+O poder que a tecnologia tem de transformar a vida das pessoas e o meio em que estão inseridas, é o que me move.
+
+Procuro evoluir como Desenvolvedor FullStack e entregar projetos de qualidade relevantes todos.</p>
 
 <h3 align="left">Links:</h3>
 
