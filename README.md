@@ -38,7 +38,6 @@ colaboração para propor novas perspectivas e soluções mais sustentáveis.</h
 <br><br><br>
 <h2>Conecte-se:</h2>
 
-<h6 aling="center">(clique nos ícones)</h6>
 
 <p align="center">
 <a href="https://instagram.com/getuliogutemberg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="getuliogutemberg" height="40" width="40" /></a>     <a href="mailto:getulio.dev@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="getuliogutemberg" height="40" width="40" /></a>     <a href="https://www.linkedin.com/in/getuliogutemberg/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="getuliogutemberg" height="30" width="40" /></a>      <a href="https://api.whatsapp.com/send?phone=5581982777891" target="blank"><img align="center" src="https://igrejadejacarepagua.com/wp-content/uploads/2018/08/wa.png" alt="getuliogutemberg" height="40" width="40" /></a>
