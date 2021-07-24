@@ -1,6 +1,6 @@
 <img src="https://github.com/getuliogutemberg/getuliogutemberg/blob/main/GetulioBannerAnimado.gif">
 
-<p align="center">Olá,sou engenheiro civil por formação, apaixonado por inovação e sustentabilidade.
+<p align="center" style="font-size: 100px">Olá,sou engenheiro civil por formação, apaixonado por inovação e sustentabilidade.
 Pai de Pets e Plantas.
 Atleta amador, meu passatempo preferido é o ciclismo de estrada.
 Curioso desde sempre, busco entender e solucionar os problemas do cotidiano através da observação
