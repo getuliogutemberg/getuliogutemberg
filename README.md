@@ -1,7 +1,6 @@
 <img src="https://github.com/getuliogutemberg/getuliogutemberg/blob/main/GetulioBannerAnimado.gif">
 
 <p align="center">Olá,
-Me chamo Getúlio Gutemberg…
 Sou engenheiro civil por formação, apaixonado por inovação e sustentabilidade.
 Pai de Pets e Plantas.
 Atleta amador, meu passatempo preferido é o ciclismo de estrada.
