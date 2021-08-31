@@ -10,7 +10,7 @@
 </br>
 
 - 📍From Recife - PE 🇧🇷
-- 📄 See my <a href="#" target="blank">Curriculum Vitae</a> to get more info.
+- 📄 See my <a href="https://gitconnected.com/getuliogutemberg/resume" target="blank">Curriculum Vitae</a> to get more info.
 - 📓 See also my <a href="#" target="blank">Portfolio</a> to know my projects.
  
 
