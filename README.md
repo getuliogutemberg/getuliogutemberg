@@ -3,8 +3,8 @@
 
 <div align="center">
 <a href="https://github.com/getuliogutemberg" /><br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=getuliogutemberg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getuliogutemberg&layout=compact&langs_count=16&theme=algolia"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=getuliogutemberg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getuliogutemberg&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 
 <!-- - 📓 See also my <a href="#" target="blank">Portfolio</a> to know my projects. -->
