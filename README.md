@@ -1,8 +1,8 @@
-# Hey, I'm Getulio Gutemberg 🖐
+# E ai, Beleza?🖐
 
- ## 👦 Who am I? 
+ ## Contatos
 
-👨‍💻 I'm a web development student at [Trybe](https://www.betrybe.com/) School.
+👨‍💻 <p>I'm a web development student at [Trybe](https://www.betrybe.com/) School.</p>
  </br>
 🤓 I'm currently learning Back-End. I am very interested in improving my knowledge in Databases.
 </br>
