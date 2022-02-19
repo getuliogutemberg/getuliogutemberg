@@ -1,6 +1,14 @@
 # E ai, Beleza?🖐
 
- ## Contatos
+  <h2> [ fullStackDeveloper: {
+ "frontend": "REACT, HOOKS, REDUX.",
+ "backend": "Express, NODEJS, Sequelize, Sockets.",
+ "dataBase": "MySQL, MongoDB, SQLserver.",
+ "versionControl": "Git, GitHub, AWS.",
+ "summary": "I have always been passionate and fascinated by computers, electronics and technology. Combining creativity, innovation and ideas we can build a better world, with more inclusive and dignified environments for all.",
+},
+GitHub: https://github.com/getuliogutemberg ];</h2>
+
 
 👨‍💻 <p>I'm a web development student at [Trybe](https://www.betrybe.com/) School.</p>
  </br>
