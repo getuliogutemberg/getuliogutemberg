@@ -1,5 +1,5 @@
 <h1 align="center"> Hello Word! Welcome to my Github profile. </h1>
-<h3 align="center">This is where I keep my materials and code for development.<br> <h6 align="center"><i>See my <a href="https://gitconnected.com/getuliogutemberg/resume" target="blank">resume</a>to get more info.</i></h6></h3>
+<h3 align="center">This is where I keep my materials and code for development.<br> <h6 align="center"><i>See my <a href="https://gitconnected.com/getuliogutemberg/resume" target="blank">resume</a> to get more info.</i></h6></h3>
 
 <div align="center">
 <a href="https://github.com/getuliogutemberg" /><br>
