@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World! Welcome to my Github profile. </h1>
+<h1 align="center"> Hey dude! Welcome to my Github profile. </h1>
 <h3 align="center">This is where I keep my materials and code for development.<br> <h6 align="center"><i>See my <a href="https://gitconnected.com/getuliogutemberg/resume" target="blank">resume</a> to get more info.</i><img src="https://icon-library.com/images/info-icon-svg/info-icon-svg-5.jpg" width="20" height="20"/></h6></h3>
 
 <div align="center">
