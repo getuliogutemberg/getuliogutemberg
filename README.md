@@ -75,7 +75,7 @@
 
 <h3> <img src="https://cdn-icons-png.flaticon.com/512/2343/2343805.png" width="20" height="20"> Follow me:</h3> 
 <div align="center">
-<a href = "mailto:getulio.dev@gmail.com"><img src="https://www.designbust.com/download/1024/png/email_icon_transparent512.png" target="_blank" width="40" height="40">  getulio.dev@gmail.com</a> <a href="https://www.linkedin.com/in/getuliogutemberg/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="40" height="40">  /getuliogutemberg</a> <a href="https://portifolio-beta-getuliogutemberg.vercel.app/" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/009/346/267/original/3d-render-icon-yellow-folder-illustration-free-png.png
+<a href = "mailto:getulio.dev@gmail.com"><img src="https://www.designbust.com/download/1024/png/email_icon_transparent512.png" target="_blank" width="40" height="40">  getulio.dev@gmail.com</a> <a href="https://www.linkedin.com/in/getuliogutemberg/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="40" height="40">  /getuliogutemberg</a> <a href="https://portifolio-beta-getuliogutemberg.vercel.app/" target="_blank"><img src="https://cutewallpaper.org/24/folder-png/folder-free-files-and-folders-icons.png
 " target="_blank" width="40" height="40">  Portifólio</a>
  
 </div>
