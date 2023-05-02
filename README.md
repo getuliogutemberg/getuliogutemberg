@@ -75,7 +75,7 @@
 
 <h3> <img src="https://cdn-icons-png.flaticon.com/512/2343/2343805.png" width="20" height="20"> Follow me:</h3> 
 <div align="center">
-<a href = "mailto:getulio.dev@gmail.com"><img src="https://www.designbust.com/download/1024/png/email_icon_transparent512.png" target="_blank" width="40" height="40">  getulio.dev@gmail.com</a> <a href="https://www.linkedin.com/in/getuliogutemberg/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="40" height="40">  /getuliogutemberg</a> <a href="https://portifolio-beta-getuliogutemberg.vercel.app/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons-for-free.com%2Fbinder%2Bcircle%2Bfolder%2Bportfolio%2Brecord%2Bicon-1320196711026051008%2F&psig=AOvVaw3gcat3tpfOewap8ao-Xzha&ust=1683103057212000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDY9dCd1v4CFQAAAAAdAAAAABAg
+<a href = "mailto:getulio.dev@gmail.com"><img src="https://www.designbust.com/download/1024/png/email_icon_transparent512.png" target="_blank" width="40" height="40">  getulio.dev@gmail.com</a> <a href="https://www.linkedin.com/in/getuliogutemberg/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="40" height="40">  /getuliogutemberg</a> <a href="https://portifolio-beta-getuliogutemberg.vercel.app/" target="_blank"><img src="https://icons-for-free.com/iconfiles/png/512/binde…der+portfolio+record+icon-1320196711026051008.png
 " target="_blank" width="40" height="40">  Portifólio</a>
  
 </div>
