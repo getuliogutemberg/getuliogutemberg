@@ -28,7 +28,7 @@ Hi, I'm [Getulio Gutemberg](https://www.linkedin.com/in/getuliogutemberg/), a Fu
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Flutter, Real time data fetch and Digital twins; 
+- 🌱 I’m currently learning Flutter, Real-time data collection and Digital twins; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Getuliogutemberg](https://www.instagram.com/getuliogutemberg);
 - 📝[Resume](https://drive.google.com/file/d/1RZquSPyN8F3n5CHxjtVUCgpaq8YpY5HX/view)
