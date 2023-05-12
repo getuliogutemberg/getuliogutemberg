@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/getuliogutemberg/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" />
 </a>
-<a href="https://wa.me/+5581982777891">
+<a href="https://wa.me/5581982777891">
   <img align="left" alt="Getulio's whatsapp" width="22px" src="https://www.svgrepo.com/show/28155/whatsapp.svg" />
 </a>
 <a href="https://www.instagram.com/getuliogutemberg/">
