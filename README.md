@@ -1,25 +1,20 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/D7d5btMT">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://seeklogo.com//images/D/discord-logo-134E148657-seeklogo.com.png" />
+  <img align="left" alt="Getulio's Server Discord" width="22px" src="https://seeklogo.com//images/D/discord-logo-134E148657-seeklogo.com.png" />
 </a>
 <!--<a href="https://twitter.com/geeky_abhiz">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>-->
 <a href="https://www.linkedin.com/in/getuliogutemberg/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" />
+  <img align="left" alt="Getulio's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" />
 </a>
 <a href="https://wa.me/5581982777891">
   <img align="left" alt="Getulio's whatsapp" width="22px" src="https://www.svgrepo.com/show/28155/whatsapp.svg" />
 </a>
 <a href="https://www.instagram.com/getuliogutemberg/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
+  <img align="left" alt="Getulio's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
-<!--<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>-->
-<!--<a href="https://leetcode.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>-->
+
 
 ![](https://komarev.com/ghpvc/?username=getuliogutemberg&label=Visitors:&color=red&style=flat)
  
@@ -28,7 +23,7 @@
 
 Hi, I'm [Getulio Gutemberg](https://www.linkedin.com/in/getuliogutemberg/), a Full Stack Developer 🚀 from Brazil, currently, I'm a software developer 🙍🏽‍♂️ with emphasis in react.js ,node.js,next.js and databases at [@In Forma Software](https://www.linkedin.com/company/in-forma-software/mycompany/) and Freelancer 👨🏽‍💻 . Beside's programming, I enjoy eating food , cycling and enjoi a beach.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="./dev.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
