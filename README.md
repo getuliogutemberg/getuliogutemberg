@@ -31,7 +31,7 @@ Hi, I'm [Getulio Gutemberg](https://www.linkedin.com/in/getuliogutemberg/), a Fu
 - 🌱 I’m currently learning Flutter, Real time data fetch and Digital twins; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Getuliogutemberg](https://www.instagram.com/getuliogutemberg);
-- 📝[Resume](https://docs.google.com/document/d/e/2PACX-1vS56KhMX3jVvFWaYr3MjEuXiAb34WIhaMu_PfIBk3oomCXygR_C2tzptqUadKiVV5H1ining6IstJZG/pub)
+- 📝[Resume](https://drive.google.com/file/d/1RZquSPyN8F3n5CHxjtVUCgpaq8YpY5HX/view)
 
 **Languages and Tools:**  
 
