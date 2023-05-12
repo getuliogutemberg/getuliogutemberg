@@ -1,27 +1,28 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/qUbApEc">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://discord.gg/D7d5btMT">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://seeklogo.com//images/D/discord-logo-134E148657-seeklogo.com.png" />
 </a>
-<a href="https://twitter.com/geeky_abhiz">
+<!--<a href="https://twitter.com/geeky_abhiz">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>-->
+<a href="https://www.linkedin.com/in/getuliogutemberg/">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<!--<a href="https://t.me/">
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
+</a>-->
+<a href="https://www.instagram.com/getuliogutemberg/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
-<a href="https://t.me/abhisheknaiidu">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/geekyabhi/">
+<!--<a href="https://www.reddit.com/user/geekyabhi/">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://leetcode.com/abhisheknaiidu/">
+</a>-->
+<!--<a href="https://leetcode.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+</a>-->
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 <br />
 
