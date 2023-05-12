@@ -21,8 +21,8 @@
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>-->
 
-
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=getuliogutemberg.getuliogutemberg&left_color=green&right_color=red)
+![](https://komarev.com/ghpvc/?username=getuliogutemberg&label=Visitors:&color=red&style=flat)
+ 
 
 <br />
 
