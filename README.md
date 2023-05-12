@@ -8,9 +8,9 @@
 <a href="https://www.linkedin.com/in/getuliogutemberg/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" />
 </a>
-<!--<a href="https://t.me/">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
-</a>-->
+<a href="https://wa.me/+5581982777891">
+  <img align="left" alt="Getulio's whatsapp" width="22px" src="https://www.svgrepo.com/show/28155/whatsapp.svg" />
+</a>
 <a href="https://www.instagram.com/getuliogutemberg/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
