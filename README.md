@@ -26,7 +26,7 @@
 
 <br />
 
-Hi, I'm [Getulio Gutemberg](https://www.linkedin.com/in/getuliogutemberg/), a Full Stack Developer 🚀 from Brazil, currently, I'm a software developer 🙍🏽‍♂️ with emphasis in react.js ,node.js,next.js and databases [@In Forma Software](https://www.linkedin.com/company/in-forma-software/mycompany/) and Freelancer 👨🏽‍💻 . Beside's programming, I enjoy eating food , cycling and enjoi a beach.
+Hi, I'm [Getulio Gutemberg](https://www.linkedin.com/in/getuliogutemberg/), a Full Stack Developer 🚀 from Brazil, currently, I'm a software developer 🙍🏽‍♂️ with emphasis in react.js ,node.js,next.js and databases at [@In Forma Software](https://www.linkedin.com/company/in-forma-software/mycompany/) and Freelancer 👨🏽‍💻 . Beside's programming, I enjoy eating food , cycling and enjoi a beach.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
