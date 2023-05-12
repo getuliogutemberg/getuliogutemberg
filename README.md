@@ -1,81 +1,74 @@
-<!-- <h1 align="center"> Hey dude! Welcome to my Github profile. </h1>
-<h3 align="center">This is where I keep my materials and code for development.<br> <h6 align="center"><i>See my <a href="https://gitconnected.com/getuliogutemberg/resume" target="blank">resume</a> to get more info.</i><img src="https://icon-library.com/images/info-icon-svg/info-icon-svg-5.jpg" width="20" height="20"/></h6></h3> -->
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/qUbApEc">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/geeky_abhiz">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/abhisheknaiidu">
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/geekyabhi/">
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://leetcode.com/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 
-<div align="center">
-<a href="https://github.com/getuliogutemberg" /><br>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=getuliogutemberg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getuliogutemberg&layout=compact&langs_count=16&theme=algolia"/>
-</div>
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-<!-- - 📓 See also my <a href="#" target="blank">Portfolio</a> to know my projects. -->
+<br />
 
+Hi, I'm [Getulio Gutemberg](https://www.linkedin.com/in/getuliogutemberg/), a Full Stack Developer 🚀 from Brazil, currently, I'm a software developer 🙍🏽‍♂️ with emphasis in react.js ,node.js,next.js and databases [@In Forma Software](https://www.linkedin.com/company/in-forma-software/mycompany/) and Freelancer 👨🏽‍💻 . Beside's programming, I enjoy eating food , cycling and enjoi a beach.
 
-<h3> <img src="https://4vector.com/i/free-vector-laptop-icon-clip-art_116535_Laptop_Icon_clip_art_hight.png" width="20" height="20"/> FWorks and Techs:</h3>
-<table align="center">
- <tr>
-<!--   <th>
-   teste
-  </th>
-  <th>
-   teste2
-  </th> -->
- </tr>
- 
- <tr>
-  <td>
-   <h4>Front-end:</h4>
-  </td>
-  <td>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/> 
-  </td>
- </tr>
- 
- <tr>
-  <td>
-   <h4>Back-end:</h4>
-  </td>
-  <td>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"  width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+**Talking about Personal Stuffs:**
 
-  </td>
- </tr>
- 
- <tr>
-  <td>
-   <h4>Tests:</h4>
-  </td>
-  <td>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="40" height="40"/>
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning Flutter, Real time data fetch and Digital twins; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@Getuliogutemberg](https://www.instagram.com/getuliogutemberg);
+- 📝[Resume](https://docs.google.com/document/d/e/2PACX-1vS56KhMX3jVvFWaYr3MjEuXiAb34WIhaMu_PfIBk3oomCXygR_C2tzptqUadKiVV5H1ining6IstJZG/pub)
 
-  </td>
- </tr>
- 
- <tr>
-  <td>
-   <h4>Others:</h4>
-  </td>
-  <td>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
-  </td>
- </tr>
- 
- <tr>
-  <td>
-   <h4>Systems:</h4>
-  </td>
-  <td>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  </td>
- </tr>
-</table>
+**Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>-->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+📊 **Progress of studies and projects:**
+<!--START_SECTION:waka-->
+```text
+Vue.js               ████████████▓░░░░░░░░░░░░   50.67 % 
+C++                  ███████▓░░░░░░░░░░░░░░░░░   31.04 % 
+Markdown             █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+JavaScript           █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Git Config           █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+```
+<!--END_SECTION:waka-->
 
-<!-- <h3>Follow me:</h3> <a href="https://www.instagram.com/getuliogutemberg/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" target="_blank" width="40" height="40">  @getuliogutemberg</a> <a href = "mailto:getulio.dev@gmail.com"><img src="https://www.designbust.com/download/1024/png/email_icon_transparent512.png" target="_blank" width="40" height="40">  getulio.dev@gmail.com</a> <a href="https://www.linkedin.com/in/getuliogutemberg/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="40" height="40">  /getuliogutemberg</a> -->
+<details>
+<summary>📈 My GitHub Stats</summary>
 
-<h3> <img src="https://cdn-icons-png.flaticon.com/512/2343/2343805.png" width="20" height="20"> Follow me:</h3> 
-<div align="center">
-<a href = "mailto:getulio.dev@gmail.com"><img src="https://www.designbust.com/download/1024/png/email_icon_transparent512.png" target="_blank" width="40" height="40">  getulio.dev@gmail.com</a> <a href="https://www.linkedin.com/in/getuliogutemberg/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="40" height="40">  /getuliogutemberg</a> <a href="https://portifolio-beta-getuliogutemberg.vercel.app/" target="_blank"><img src="https://cutewallpaper.org/24/folder-png/folder-free-files-and-folders-icons.png
-" target="_blank" width="40" height="40">  Portifólio</a>
- 
-</div>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=getuliogutemberg&show_icons=true&theme=gotham" alt="getuliogutemberg" />
+
+</details>
+
+-----
+Credits: [getuliogutemberg](https://github.com/getuliogutemberg)
+
+Last Edited on: 10/05/2023
