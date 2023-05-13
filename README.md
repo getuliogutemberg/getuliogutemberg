@@ -23,7 +23,7 @@
 
 Hi, I'm [Getulio Gutemberg](https://www.linkedin.com/in/getuliogutemberg/), a Full Stack Developer 🚀 from Brazil, currently, I'm a software developer 🙍🏽‍♂️ with emphasis in react.js ,node.js,next.js and databases at [@In Forma Software](https://www.linkedin.com/company/in-forma-software/mycompany/) and Freelancer 👨🏽‍💻 . Beside's programming, I enjoy eating food , cycling and enjoi a beach.
 
-  <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="./code.gif" width="500" height="300" />
   
 **Talking about Personal Stuffs:**
 
@@ -49,11 +49,11 @@ Hi, I'm [Getulio Gutemberg](https://www.linkedin.com/in/getuliogutemberg/), a Fu
 <br />
 <!--START_SECTION:waka-->
 ```text
-ReactNative          ████████████▓░░░░░░░░░░░░   50.67 % 
-Flutter              ███████▓░░░░░░░░░░░░░░░░░   31.04 % 
-React.js             █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Node.js              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Php                  █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+JavaScript           ████████████▓░░░░░░░░░░░░                                           50.67 % 
+Node.js              ███████▓░░░░░░░░░░░░░░░░░                                           31.04 % 
+React.js             █▒░░░░░░░░░░░░░░░░░░░░░░░                                           05.73 % 
+Flutter              █░░░░░░░░░░░░░░░░░░░░░░░░                                           04.64 % 
+ReactNative          █░░░░░░░░░░░░░░░░░░░░░░░░                                           04.01 % 
 ```
 <!--END_SECTION:waka-->
 
