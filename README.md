@@ -66,7 +66,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 <a href="https://wa.me/558199279191">
   <img align="left" alt="Getulio's whatsapp" width="50px" src="https://www.svgrepo.com/show/28155/whatsapp.svg" />
 </a>
-<a href="https://www.instagram.com/getuliogutemberg/">
+<a href="https://www.instagram.com/owlcodecraft">
   <img align="left" alt="Getulio's Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
 <br/>
