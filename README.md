@@ -1,20 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://komarev.com/ghpvc/?username=getuliogutemberg&label=Visitors:&color=red&style=flat)
 
-<!--<a href="https://discord.gg/D7d5btMT">
-  <img align="left" alt="Getulio's Server Discord" width="22px" src="https://seeklogo.com//images/D/discord-logo-134E148657-seeklogo.com.png" />
-</a>
-<a href="https://twitter.com/geeky_abhiz">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>-->
-<a href="https://www.linkedin.com/in/getuliogutemberg/" >
-  <img align="left" alt="Getulio's LinkdeIN" width="50px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" />
-</a>
-<a href="https://wa.me/558199279191">
-  <img align="left" alt="Getulio's whatsapp" width="50px" src="https://www.svgrepo.com/show/28155/whatsapp.svg" />
-</a>
-<a href="https://www.instagram.com/getuliogutemberg/">
-  <img align="left" alt="Getulio's Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
-</a>
 
 
 
@@ -67,4 +52,20 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 
 </details>
 
+-----
+<!--<a href="https://discord.gg/D7d5btMT">
+  <img align="left" alt="Getulio's Server Discord" width="22px" src="https://seeklogo.com//images/D/discord-logo-134E148657-seeklogo.com.png" />
+</a>
+<a href="https://twitter.com/geeky_abhiz">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>-->
+<a href="https://www.linkedin.com/in/getuliogutemberg/" >
+  <img align="left" alt="Getulio's LinkdeIN" width="50px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" />
+</a>
+<a href="https://wa.me/558199279191">
+  <img align="left" alt="Getulio's whatsapp" width="50px" src="https://www.svgrepo.com/show/28155/whatsapp.svg" />
+</a>
+<a href="https://www.instagram.com/getuliogutemberg/">
+  <img align="left" alt="Getulio's Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
+</a>
 -----
