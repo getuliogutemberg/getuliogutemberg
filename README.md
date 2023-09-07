@@ -18,7 +18,7 @@ Beside's programming, I enjoy eating food , cycling and enjoi a beach.
 - 🌱 I’m currently learning Flutter, Real-time data collection and Digital twins; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Getuliogutemberg](https://wa.me/558199279191);
-- 📝[Resume](https://drive.google.com/file/d/1RZquSPyN8F3n5CHxjtVUCgpaq8YpY5HX/view)
+- 📝[Resume](https://drive.google.com/file/d/1cRcuHrvBw1puX1BGYKJZagMvpT8AbPba/view?usp=sharing)
 
 **Languages and Tools:**  
 
