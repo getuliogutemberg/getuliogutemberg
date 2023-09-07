@@ -53,6 +53,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 </details>
 
 -----
+📊 **Contact:**
 <!--<a href="https://discord.gg/D7d5btMT">
   <img align="left" alt="Getulio's Server Discord" width="22px" src="https://seeklogo.com//images/D/discord-logo-134E148657-seeklogo.com.png" />
 </a>
@@ -68,4 +69,5 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 <a href="https://www.instagram.com/getuliogutemberg/">
   <img align="left" alt="Getulio's Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
+
 -----
