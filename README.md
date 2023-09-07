@@ -69,5 +69,5 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 <a href="https://www.instagram.com/getuliogutemberg/">
   <img align="left" alt="Getulio's Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
-
+<br/>
 -----
