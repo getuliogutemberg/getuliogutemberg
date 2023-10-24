@@ -79,8 +79,9 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 -----
 
 <details>
-<summary>GitHub Stats</summary>
-  
+<summary>GitHub Stats + Resume </summary>
+
+<code>Resume <a href="https://www.linkedin.com/in/getuliogutemberg/" ><img alt="Getulio's LinkdeIN"  height="30" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" /></a></code>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=getuliogutemberg&show_icons=true&theme=gotham" alt="getuliogutemberg" /></p>
 
 </details>
