@@ -6,7 +6,7 @@
 <img align="right" alt="GIF" src="./code.gif" width="500" height="300" />
 
 
-<p>Software Developer 🚀</p>
+<span>Software Developer 🚀</span>
 
 -----
 
