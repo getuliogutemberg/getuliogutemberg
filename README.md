@@ -1,5 +1,5 @@
 
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://komarev.com/ghpvc/?username=getuliogutemberg&label=Visitors:&color=red&style=flat)
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ![](https://komarev.com/ghpvc/?username=getuliogutemberg&label=Visitors:&color=red&style=flat)
 
 <p align="right" ><a href="https://www.linkedin.com/in/getuliogutemberg/" > <h1> I'm Getulio Gutemberg</h1> </a></p>
 
@@ -19,9 +19,9 @@
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>-->
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>-->
 
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React</code>
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node.js</code>
-- <code><img height="20" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"> Next.js</code>
+- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React</code>
+- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node.js</code>
+- <code><img height="30" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"> Next.js</code>
 
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>-->
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>-->
@@ -71,9 +71,9 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>-->
  
-- <code>Linked In<a href="https://www.linkedin.com/in/getuliogutemberg/" ><img alt="Getulio's LinkdeIN"  height="30" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" /></a></code>
-- <code>Wa<a href="https://wa.me/558199279191"><img  alt="Getulio's whatsapp"  height="30" src="https://www.svgrepo.com/show/28155/whatsapp.svg" /></a></code>
-- <code>Instagram<a href="https://www.instagram.com/getuliogutemberg"><img alt="Getulio's Instagram"  height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" /></a></code>
+- <code>Linked In<a href="https://www.linkedin.com/in/getuliogutemberg/" > <img alt="Getulio's LinkdeIN"  height="30" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" /></a></code>
+- <code>Wa<a href="https://wa.me/558199279191"> <img  alt="Getulio's whatsapp"  height="30" src="https://www.svgrepo.com/show/28155/whatsapp.svg" /></a></code>
+- <code>Instagram<a href="https://www.instagram.com/getuliogutemberg"> <img alt="Getulio's Instagram"  height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" /></a></code>
 
 </details>
 
