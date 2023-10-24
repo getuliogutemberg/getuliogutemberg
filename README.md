@@ -71,7 +71,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>-->
  
-- <code heigth="50px">Linked In<a href="https://www.linkedin.com/in/getuliogutemberg/" ><img alt="Getulio's LinkdeIN" width="50px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" /></a></code>
+- <code height="50px">Linked In<a href="https://www.linkedin.com/in/getuliogutemberg/" ><img alt="Getulio's LinkdeIN" width="50px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" /></a></code>
 - <code heigth="50px">Wa<a href="https://wa.me/558199279191"><img  alt="Getulio's whatsapp" width="50px" src="https://www.svgrepo.com/show/28155/whatsapp.svg" /></a></code>
 - <code heigth="50px">Instagram<a href="https://www.instagram.com/getuliogutemberg"><img alt="Getulio's Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" /></a></code>
 
