@@ -6,7 +6,7 @@
 <img align="right" alt="GIF" src="./code.gif" width="500" height="300" />
 
 
-**Software Developer 🚀** 
+<p>Software Developer 🚀</p>
 
 -----
 
@@ -62,7 +62,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 -----
 
 <details>
-<summary>My GitHub Stats</summary>
+<summary>GitHub Stats</summary>
 
 <img src="https://github-readme-stats.vercel.app/api?username=getuliogutemberg&show_icons=true&theme=gotham" alt="getuliogutemberg" />
 
