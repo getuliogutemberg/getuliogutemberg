@@ -40,7 +40,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 -----
-
+<details>
 ***SandBox:***
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
@@ -49,6 +49,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 - 📫 How to reach me: [@Getuliogutemberg](https://wa.me/558199279191);
 - 📝[Resume](https://drive.google.com/file/d/1cRcuHrvBw1puX1BGYKJZagMvpT8AbPba/view?usp=sharing)
 
+</details>
 
 
 
