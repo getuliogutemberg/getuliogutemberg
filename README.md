@@ -72,7 +72,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 </a>-->
  
 - <code>Linked In <a href="https://www.linkedin.com/in/getuliogutemberg/" ><img alt="Getulio's LinkdeIN"  height="30" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" /></a></code>
-- <code>Whatsapp <a href="https://wa.me/558199279191"><img  alt="Getulio's whatsapp"  height="30" src="https://www.svgrepo.com/show/28155/whatsapp.svg" /></a></code>
+- <code>Whatsapp <a href="https://wa.me/5581992079191"><img  alt="Getulio's whatsapp"  height="30" src="https://www.svgrepo.com/show/28155/whatsapp.svg" /></a></code>
 - <code>Instagram <a href="https://www.instagram.com/getuliogutemberg"><img alt="Getulio's Instagram"  height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" /></a></code>
 
 </details>
