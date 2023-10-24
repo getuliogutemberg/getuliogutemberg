@@ -5,7 +5,7 @@
 
  
 
-<br />
+
 ### I'm [Getulio Gutemberg](https://www.linkedin.com/in/getuliogutemberg/), Software Developer 🚀. 
 <img align="right" alt="GIF" src="./code.gif" width="500" height="300" />
   
