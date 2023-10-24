@@ -25,17 +25,6 @@
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>-->
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>-->
 
------
-
-***'ProtoApps':***
-
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Flutter, Real-time data collection and Digital twins; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Getuliogutemberg](https://wa.me/558199279191);
-- 📝[Resume](https://drive.google.com/file/d/1cRcuHrvBw1puX1BGYKJZagMvpT8AbPba/view?usp=sharing)
-
-
 **Progress of studies and projects:**
 <br />
 <!--START_SECTION:waka-->
@@ -47,6 +36,19 @@ Tailwind css         █░░░░░░░░░░░░░░░░░░�
 ReactNative          █░░░░░░░░░░░░░░░░░░░░░░░░                                           04.01 % 
 ```
 <!--END_SECTION:waka-->
+
+-----
+
+***'ProtoApps':***
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning Flutter, Real-time data collection and Digital twins; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@Getuliogutemberg](https://wa.me/558199279191);
+- 📝[Resume](https://drive.google.com/file/d/1cRcuHrvBw1puX1BGYKJZagMvpT8AbPba/view?usp=sharing)
+
+
+
 
 -----
 
