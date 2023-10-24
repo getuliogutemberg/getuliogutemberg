@@ -1,7 +1,7 @@
 
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://komarev.com/ghpvc/?username=getuliogutemberg&label=Visitors:&color=red&style=flat)
 
-<p align="right" >I'm <a href="https://www.linkedin.com/in/getuliogutemberg/" > Getulio Gutemberg </a></p>
+<p align="right" >I'm <a href="https://www.linkedin.com/in/getuliogutemberg/" styles={{color:'red'}}> Getulio Gutemberg </a></p>
 
 <img align="right" alt="GIF" src="./code.gif" width="500" height="300" />
 
