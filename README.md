@@ -11,6 +11,7 @@
 
 <img align="right" alt="GIF" src="./code.gif" width="500" height="300" />
 
+<details>
 ***Stacks:***  
 
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>-->
@@ -38,10 +39,10 @@ Tailwind css         █░░░░░░░░░░░░░░░░░░�
 ReactNative          █░░░░░░░░░░░░░░░░░░░░░░░░                                           04.01 % 
 ```
 <!--END_SECTION:waka-->
-
+</details>
 -----
 <details>
-<summary>SandBox:</summary>
+<summary>SandBox</summary>
 
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
@@ -57,7 +58,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 -----
 
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>My GitHub Stats</summary>
 
 <img src="https://github-readme-stats.vercel.app/api?username=getuliogutemberg&show_icons=true&theme=gotham" alt="getuliogutemberg" />
 
@@ -65,7 +66,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 
 -----
 <details>
-<summary>Contact:</summary>
+<summary>Contact</summary>
 <!--<a href="https://discord.gg/D7d5btMT">
   <img align="left" alt="Getulio's Server Discord" width="22px" src="https://seeklogo.com//images/D/discord-logo-134E148657-seeklogo.com.png" />
 </a>
