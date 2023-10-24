@@ -24,7 +24,7 @@
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>-->
 
   
-***Stacks:***
+***'ProtoApps':***
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Flutter, Real-time data collection and Digital twins; 
