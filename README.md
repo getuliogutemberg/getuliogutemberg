@@ -12,7 +12,7 @@
 <img align="right" alt="GIF" src="./code.gif" width="500" height="300" />
 
 <details>
-***Stacks:***  
+<summary>Stacks:</summary>
 
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>-->
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>-->
@@ -28,8 +28,8 @@
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>-->
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>-->
 
-***Learned progress:***
-<br />
+Learned progress:
+
 <!--START_SECTION:waka-->
 ```text
 React.js             ████████████▓░░░░░░░░░░░░                                           50.67 % 
