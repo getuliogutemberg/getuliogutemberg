@@ -63,14 +63,6 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 -----
 
 <details>
-<summary>GitHub Stats</summary>
-
-<img src="https://github-readme-stats.vercel.app/api?username=getuliogutemberg&show_icons=true&theme=gotham" alt="getuliogutemberg" />
-
-</details>
-
------
-<details>
 <summary>Contact</summary>
 <!--<a href="https://discord.gg/D7d5btMT">
   <img align="left" alt="Getulio's Server Discord" width="22px" src="https://seeklogo.com//images/D/discord-logo-134E148657-seeklogo.com.png" />
@@ -88,4 +80,15 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
   <img align="left" alt="Getulio's Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
 </details>
+
+-----
+
+<details>
+<summary>GitHub Stats</summary>
+
+<img src="https://github-readme-stats.vercel.app/api?username=getuliogutemberg&show_icons=true&theme=gotham" alt="getuliogutemberg" />
+
+</details>
+
+
 
