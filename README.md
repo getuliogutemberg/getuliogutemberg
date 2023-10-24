@@ -71,11 +71,9 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>-->
  
-- <a href="https://www.linkedin.com/in/getuliogutemberg/" ><img align="left" alt="Getulio's LinkdeIN" width="50px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" /></a>
-
-- <a href="https://wa.me/558199279191"><img align="left" alt="Getulio's whatsapp" width="50px" src="https://www.svgrepo.com/show/28155/whatsapp.svg" /></a>
-
-- <a href="https://www.instagram.com/getuliogutemberg"><img align="left" alt="Getulio's Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" /></a>
+ <a href="https://www.linkedin.com/in/getuliogutemberg/" ><img align="left" alt="Getulio's LinkdeIN" width="50px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" /></a>
+ <a href="https://wa.me/558199279191"><img align="left" alt="Getulio's whatsapp" width="50px" src="https://www.svgrepo.com/show/28155/whatsapp.svg" /></a>
+ <a href="https://www.instagram.com/getuliogutemberg"><img align="left" alt="Getulio's Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" /></a>
 
 </details>
 
