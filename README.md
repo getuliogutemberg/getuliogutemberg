@@ -1,17 +1,10 @@
-
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ![](https://komarev.com/ghpvc/?username=getuliogutemberg&label=Visitors:&color=red&style=flat)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ![](https://komarev.com/ghpvc/?username=getuliogutemberg&label=Visitors:&color=red&style=flat)
 
 <p align="right" ><a href="https://www.linkedin.com/in/getuliogutemberg/" > <h1> I'm Getulio Gutemberg</h1> </a></p>
-
-
 
 <p align="right" ><a href="https://www.linkedin.com/in/getuliogutemberg/" > Software Developer 🚀 </a></p> <br/>
 
 <img align="right" alt="GIF" src="./code.gif" width="500" height="300" />
-
-
-
-
 
 <details>
 <summary>Stacks:</summary>
@@ -49,7 +42,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 <details>
 <summary>SandBox</summary>
 
-- https://github.com/getuliogutemberg/responsive-layout
+- [Responsive SaaS Layout](https://github.com/getuliogutemberg/responsive-layout)
 <!-- - 👨🏽‍💻 I’m currently working on something cool :wink:;-->
 <!-- - 🌱 I’m currently learning Flutter, Real-time data collection and Digital twins; -->
 <!-- - 💬 Ask me about anything, I am happy to help;-->
