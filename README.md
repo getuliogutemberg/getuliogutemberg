@@ -5,9 +5,8 @@
 **Software Developer 🚀** 
 
 
-<img align="right" alt="GIF" src="./code.gif" width="500" height="300" />
   
-**Stacks:**
+***Stacks:***
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Flutter, Real-time data collection and Digital twins; 
