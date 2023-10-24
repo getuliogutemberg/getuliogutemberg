@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="./code.gif" width="500" height="300" />
 
 <details>
-<summary> <img height="30" src="https://www.iconpacks.net/icons/2/free-stack-icon-5858-thumb.png"> Stacks:</summary>
+<summary> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Circle-icons-stack.svg/2048px-Circle-icons-stack.svg.png"> Stacks:</summary>
 
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>-->
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>-->
@@ -46,7 +46,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 -----
 
 <details>
-<summary>SandBox</summary>
+<summary> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Circle-icons-stack.svg/2048px-Circle-icons-stack.svg.png"> SandBox</summary>
 
 - [Responsive SaaS Layout](https://github.com/getuliogutemberg/responsive-layout)
 <!-- - 👨🏽‍💻 I’m currently working on something cool :wink:;-->
@@ -62,7 +62,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 -----
 
 <details>
-<summary>Contact</summary>
+<summary><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Circle-icons-stack.svg/2048px-Circle-icons-stack.svg.png"> Contact</summary>
 <!--<a href="https://discord.gg/D7d5btMT">
   <img align="left" alt="Getulio's Server Discord" width="22px" src="https://seeklogo.com//images/D/discord-logo-134E148657-seeklogo.com.png" />
 </a>
@@ -79,7 +79,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 -----
 
 <details>
-<summary>GitHub Stats + Resume </summary>
+<summary> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Circle-icons-stack.svg/2048px-Circle-icons-stack.svg.png"> GitHub Stats + Resume </summary>
 
 - <code>Resume <a href="https://www.google.com" ><img alt="Getulio's Resume"  height="30" src="https://static-00.iconduck.com/assets.00/resume-icon-397x512-doqhpuo9.png" /></a></code>
 
