@@ -41,7 +41,8 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 
 -----
 <details>
-***SandBox:***
+<summary>SandBox:</summary>
+
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Flutter, Real-time data collection and Digital twins; 
