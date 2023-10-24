@@ -3,10 +3,11 @@
 
 <p align="right" ><a href="https://www.linkedin.com/in/getuliogutemberg/" > <h1> I'm Getulio Gutemberg</h1> </a></p>
 
-<img align="right" alt="GIF" src="./code.gif" width="500" height="300" />
+
 
 <p align="right" ><a href="https://www.linkedin.com/in/getuliogutemberg/" > Software Developer 🚀 </a></p> <br/>
 
+<img align="right" alt="GIF" src="./code.gif" width="500" height="300" />
 
 -----
 
