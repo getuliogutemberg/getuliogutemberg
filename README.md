@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="./code.gif" width="500" height="300" />
 
-<p align="right" ><a href="https://www.linkedin.com/in/getuliogutemberg/" > Software Developer 🚀 </a></p>
+<p align="right" ><a href="https://www.linkedin.com/in/getuliogutemberg/" > Software Developer 🚀 </a></p> <hr/>
 
 
 -----
