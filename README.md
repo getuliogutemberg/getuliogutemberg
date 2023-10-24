@@ -81,7 +81,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 <details>
 <summary>GitHub Stats</summary>
   
-<img src="https://github-readme-stats.vercel.app/api?username=getuliogutemberg&show_icons=true&theme=gotham" alt="getuliogutemberg" />
+<img aling="center" src="https://github-readme-stats.vercel.app/api?username=getuliogutemberg&show_icons=true&theme=gotham" alt="getuliogutemberg" />
 
 </details>
 
