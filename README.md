@@ -85,6 +85,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 
 <p align="center" >
  <img src="https://github-readme-stats.vercel.app/api?username=getuliogutemberg&show_icons=true&theme=gotham" alt="getuliogutemberg" />
+ <br/>
  <code><a href="https://www.google.com" >Download Resume</a></code>
 </p>
 
