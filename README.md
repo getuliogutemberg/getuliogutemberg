@@ -52,11 +52,6 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 <summary> <img height="30" src="https://icon-library.com/images/jobs-icon-png/jobs-icon-png-20.jpg"> Jobs</summary>
 
 - [Util 4.0](https://www.utind.com.br/)
-<!-- - 👨🏽‍💻 I’m currently working on something cool :wink:;-->
-<!-- - 🌱 I’m currently learning Flutter, Real-time data collection and Digital twins; -->
-<!-- - 💬 Ask me about anything, I am happy to help;-->
-<!-- - 📫 How to reach me: [@Getuliogutemberg](https://wa.me/558199279191);-->
-<!-- - 📝[Resume](https://drive.google.com/file/d/1cRcuHrvBw1puX1BGYKJZagMvpT8AbPba/view?usp=sharing)-->
 
 </details>
 
@@ -66,15 +61,10 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 <summary> <img height="30" src="https://cdn-icons-png.flaticon.com/512/506/506280.png"> SandBox</summary>
 
 - [Responsive SaaS Layout](https://github.com/getuliogutemberg/responsive-layout)
-<!-- - 👨🏽‍💻 I’m currently working on something cool :wink:;-->
-<!-- - 🌱 I’m currently learning Flutter, Real-time data collection and Digital twins; -->
-<!-- - 💬 Ask me about anything, I am happy to help;-->
-<!-- - 📫 How to reach me: [@Getuliogutemberg](https://wa.me/558199279191);-->
-<!-- - 📝[Resume](https://drive.google.com/file/d/1cRcuHrvBw1puX1BGYKJZagMvpT8AbPba/view?usp=sharing)-->
+- [Playing with react](https://deepspace-two.vercel.app/)
+- [Prehistoric portifolio](https://portifolio-beta-five.vercel.app/)
 
 </details>
-
-
 
 -----
 
