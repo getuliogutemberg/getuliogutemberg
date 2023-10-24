@@ -23,7 +23,8 @@
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>-->
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>-->
 
-  
+-----
+
 ***'ProtoApps':***
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
@@ -33,7 +34,7 @@
 - 📝[Resume](https://drive.google.com/file/d/1cRcuHrvBw1puX1BGYKJZagMvpT8AbPba/view?usp=sharing)
 
 
-📊 **Progress of studies and projects:**
+**Progress of studies and projects:**
 <br />
 <!--START_SECTION:waka-->
 ```text
@@ -46,6 +47,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 -----
+
 <details>
 <summary>📈 My GitHub Stats</summary>
 
