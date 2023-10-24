@@ -2,7 +2,7 @@
 
 <p align="right" ><a href="https://www.linkedin.com/in/getuliogutemberg/" > <h1> I'm Getulio Gutemberg</h1> </a></p>
 
-<p align="right" ><a href="https://www.linkedin.com/in/getuliogutemberg/" > <h2>  Software Developer 🚀 </h2> </a></p> <br/>
+<p align="right" ><a href="https://www.linkedin.com/in/getuliogutemberg/" >Software Developer 🚀</a></p> <br/>
 
 <img align="right" alt="GIF" src="./code.gif" width="500" height="300" />
 
