@@ -81,9 +81,9 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 <details>
 <summary> <img height="30" src="https://cdn-icons-png.flaticon.com/512/432/432548.png"> GitHub Stats + Resume </summary>
 
-- <code><a href="https://www.google.com" >Download Resume</a></code>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=getuliogutemberg&show_icons=true&theme=gotham" alt="getuliogutemberg" /></p>
+
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=getuliogutemberg&show_icons=true&theme=gotham" alt="getuliogutemberg" /><code><a href="https://www.google.com" >Download Resume</a></code></p>
 
 </details>
 
