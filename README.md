@@ -3,11 +3,13 @@
 
 # I'm [Getulio Gutemberg](https://www.linkedin.com/in/getuliogutemberg/) 
 
-<img align="right" alt="GIF" src="./code.gif" width="500" height="300" />
+
 
 **Software Developer 🚀** 
 
 -----
+
+<img align="right" alt="GIF" src="./code.gif" width="500" height="300" />
 
 **Stacks:**  
 
