@@ -46,7 +46,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 -----
 
 <details>
-<summary> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Circle-icons-stack.svg/2048px-Circle-icons-stack.svg.png"> SandBox</summary>
+<summary> <img height="30" src="https://cdn-icons-png.flaticon.com/512/506/506280.png"> SandBox</summary>
 
 - [Responsive SaaS Layout](https://github.com/getuliogutemberg/responsive-layout)
 <!-- - 👨🏽‍💻 I’m currently working on something cool :wink:;-->
@@ -62,7 +62,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 -----
 
 <details>
-<summary> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Circle-icons-stack.svg/2048px-Circle-icons-stack.svg.png"> Contact</summary>
+<summary> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Google_Contacts_icon.svg/1200px-Google_Contacts_icon.svg.png"> Contact</summary>
 <!--<a href="https://discord.gg/D7d5btMT">
   <img align="left" alt="Getulio's Server Discord" width="22px" src="https://seeklogo.com//images/D/discord-logo-134E148657-seeklogo.com.png" />
 </a>
@@ -79,7 +79,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 -----
 
 <details>
-<summary> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Circle-icons-stack.svg/2048px-Circle-icons-stack.svg.png"> GitHub Stats + Resume </summary>
+<summary> <img height="30" src="https://cdn-icons-png.flaticon.com/512/432/432548.png"> GitHub Stats + Resume </summary>
 
 - <code>Resume <a href="https://www.google.com" ><img alt="Getulio's Resume"  height="30" src="https://static-00.iconduck.com/assets.00/resume-icon-397x512-doqhpuo9.png" /></a></code>
 
