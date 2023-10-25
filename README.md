@@ -65,6 +65,12 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 - Gptalkin 1.0: [preview](https://gptalking-10.vercel.app/) [repo](https://github.com/getuliogutemberg/new-util) 
 - Basic System with React: [preview](https://react-dos.vercel.app/)  [repo](https://github.com/getuliogutemberg/react-dos)
 - Playing with React: [preview](https://deepspace-two.vercel.app/) [repo](https://github.com/getuliogutemberg/novoapp)
+- LoginForm: [preview](https://tela-login-pied.vercel.app/)
+- ClientForm: [preview](https://formulario-clientes-drab.vercel.app/)
+- Calculator: [preview](https://calculadora-beryl-alpha.vercel.app/)
+- IMC Calculator: [preview](https://calculadora-beryl-alpha.vercel.app/)
+- Cronometer 2.0: [preview](https://cronometro-v2-0.vercel.app/)
+- Cronometer 1.0: [preview](https://clonenetflix-omega.vercel.app/)
 - Prehistoric portifolio: [preview](https://portifolio-beta-five.vercel.app/) [repo](https://github.com/getuliogutemberg/portifolio-beta) 
 
   
