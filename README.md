@@ -61,9 +61,9 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 <summary> <img height="30" src="https://cdn-icons-png.flaticon.com/512/506/506280.png"> SandBox</summary>
 
 - Next Form Builder: [preview](https://next-form-builder.vercel.app/) [repo](https://github.com/getuliogutemberg/next-form-builder) 
-- Responsive SaaS Layout: [Preview](https://responsive-layout-pi.vercel.app/) [repo](https://github.com/getuliogutemberg/responsive-layout) 
-- Playing with react: [Preview](https://deepspace-two.vercel.app/) [repo](https://github.com/getuliogutemberg/novoapp) 
-- Prehistoric portifolio: [Preview](https://portifolio-beta-five.vercel.app/) [repo](https://github.com/getuliogutemberg/portifolio-beta) 
+- Responsive SaaS Layout: [preview](https://responsive-layout-pi.vercel.app/) [repo](https://github.com/getuliogutemberg/responsive-layout) 
+- Playing with react: [preview](https://deepspace-two.vercel.app/) [repo](https://github.com/getuliogutemberg/novoapp) 
+- Prehistoric portifolio: [preview](https://portifolio-beta-five.vercel.app/) [repo](https://github.com/getuliogutemberg/portifolio-beta) 
 
 </details>
 
