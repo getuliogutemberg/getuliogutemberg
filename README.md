@@ -62,10 +62,12 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 
 - Next Form Builder: [preview](https://next-form-builder.vercel.app/) [repo](https://github.com/getuliogutemberg/next-form-builder) 
 - Responsive SaaS Layout: [preview](https://responsive-layout-pi.vercel.app/) [repo](https://github.com/getuliogutemberg/responsive-layout) 
-- Playing with React: [preview](https://deepspace-two.vercel.app/) [repo](https://github.com/getuliogutemberg/novoapp)
+- Gptalkin 1.0: [preview](https://gptalking-10.vercel.app/) [repo](https://github.com/getuliogutemberg/new-util) 
 - Basic System with React: [preview](https://react-dos.vercel.app/)  [repo](https://github.com/getuliogutemberg/react-dos)
+- Playing with React: [preview](https://deepspace-two.vercel.app/) [repo](https://github.com/getuliogutemberg/novoapp)
 - Prehistoric portifolio: [preview](https://portifolio-beta-five.vercel.app/) [repo](https://github.com/getuliogutemberg/portifolio-beta) 
 
+  
 </details>
 
 -----
