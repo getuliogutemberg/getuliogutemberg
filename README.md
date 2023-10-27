@@ -107,7 +107,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 <p align="center" >
  <img src="https://github-readme-stats.vercel.app/api?username=getuliogutemberg&show_icons=true&theme=gotham" alt="getuliogutemberg" />
  <br/>
- <code><a href="https://www.google.com" >Download Resume</a></code>
+ <code><a href="[https://www.google.com](https://www.linkedin.com/ambry/?x-li-ambry-ep=AQIMljoMfBPRMwAAAYty-G8O-zLvODTjIQnPESkf0KmSdtdy9wmV2wXh8zlfQ3JL-SVTtyYgwBYFKfza_nUz7znKoV5HOWjo_7EOGj8meWz_1QPPDwFusq49L8sOqLe-sNPxnTPP3do5TVp0qlHd0J15DyGtntU-B9zYFgftk9otf4BtxH6yVX1VsLxa0Czd-fv1RQhBsEYMwVf-qRFRgtI5zSwn5Wcz5d7CsjLULFW3_ufvTecuymKXdDiaqHjcPA_j_FBvrE_Q4USDE7jjCXKeAKdflWyUDWEdj2MbntM8LqTNFi7u3ixMjQZ6UvQsp07pIDCkkQY_XiiiEHpA-s9KKj5gplGFqpn5k1FnuZFnE3j_g4b5n4S_eTkwqE_kWKtpm_Jtood_mymK46bc0LOiT1SeRY3mg8lEp4sHP6KaFzmAW0rVQVlAftUOj_VFPGTRm7Ga893aSY3B2B4XTzqg8__J-3Hs770YRNBmHUGZ8JuKgYMKRHMSfix0YnwvIyGYs1jKa-nxSJsWlQ8U9hF17w306Dl7NybHLmJMaWVs_pJMxUbXKaxvEPGQlYj_CA025g&x-ambry-um-filename=Profile.pdf)https://www.linkedin.com/ambry/?x-li-ambry-ep=AQIMljoMfBPRMwAAAYty-G8O-zLvODTjIQnPESkf0KmSdtdy9wmV2wXh8zlfQ3JL-SVTtyYgwBYFKfza_nUz7znKoV5HOWjo_7EOGj8meWz_1QPPDwFusq49L8sOqLe-sNPxnTPP3do5TVp0qlHd0J15DyGtntU-B9zYFgftk9otf4BtxH6yVX1VsLxa0Czd-fv1RQhBsEYMwVf-qRFRgtI5zSwn5Wcz5d7CsjLULFW3_ufvTecuymKXdDiaqHjcPA_j_FBvrE_Q4USDE7jjCXKeAKdflWyUDWEdj2MbntM8LqTNFi7u3ixMjQZ6UvQsp07pIDCkkQY_XiiiEHpA-s9KKj5gplGFqpn5k1FnuZFnE3j_g4b5n4S_eTkwqE_kWKtpm_Jtood_mymK46bc0LOiT1SeRY3mg8lEp4sHP6KaFzmAW0rVQVlAftUOj_VFPGTRm7Ga893aSY3B2B4XTzqg8__J-3Hs770YRNBmHUGZ8JuKgYMKRHMSfix0YnwvIyGYs1jKa-nxSJsWlQ8U9hF17w306Dl7NybHLmJMaWVs_pJMxUbXKaxvEPGQlYj_CA025g&x-ambry-um-filename=Profile.pdf" >Download Resume</a></code>
 </p>
 
 </details>
