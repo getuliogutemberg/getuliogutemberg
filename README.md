@@ -1,8 +1,8 @@
 <p align="right" ><frame src="https://komarev.com/ghpvc/?username=getuliogutemberg&label=Visitors:&color=red&style=flat"></frame> </p>
 
-<p align="right" height="30" > I'm  <a href="https://www.linkedin.com/in/getuliogutemberg/" >  Getulio Gutemberg </a> Software Developer</p>
+<p align="right" height="30" > I'm   Software Developer</p>
 
-# I'm Getulio Gutemberg Software Developer
+# I'm <a href="https://www.linkedin.com/in/getuliogutemberg/" >  Getulio Gutemberg </a> Software Developer
 
 
 
