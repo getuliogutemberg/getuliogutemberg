@@ -3,7 +3,7 @@
 
 
 # I'm <a href="https://www.linkedin.com/in/getuliogutemberg/" >  Getulio Gutemberg </a>
-##  Software Developer
+Software Developer
 
 
 
