@@ -63,6 +63,7 @@ ReactNative          █░░░░░░░░░░░░░░░░░░�
 <details>
 <summary> <img height="30" src="https://cdn-icons-png.flaticon.com/512/506/506280.png"> SandBox</summary>
 
+- Next Social App : [preview](https://capybaquigrafo.vercel.app/) [repo](https://github.com/getuliogutemberg/next-social-app)
 - Next Form Builder: [preview](https://next-form-builder.vercel.app/) [repo](https://github.com/getuliogutemberg/next-form-builder)
 - 3dWebRender: [preview](https://run3d.vercel.app/) [repo]()
 - Responsive SaaS Layout: [preview](https://responsive-layout-pi.vercel.app/) [repo](https://github.com/getuliogutemberg/responsive-layout) 
