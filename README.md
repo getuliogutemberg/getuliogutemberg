@@ -13,10 +13,13 @@ Sou um entusiasta do desenvolvimento de software, apaixonado por criar soluçõe
 
 Aqui estão alguns dos meus projetos mais recentes:
 
+- [BikeTrack Telemetry](https://github.com/getuliogutemberg/biketrack-telemetry-app): BikeTrack Telemetry is a web application built to track telemetry data from bicycles.
+- [Socket App ](https://github.com/getuliogutemberg/socketapp): Pra recordar o socket.
 - [Next Social APIREST](https://capybaquigrafo-apirest.vercel.app/): Uma APIREST para uma rede social desenvolvida com Next.js.
 - [Next Social App](https://capybaquigrafo.vercel.app/): Aplicativo de rede social construído com Next.js.
 - [Next Form Builder](https://next-form-builder.vercel.app/): Um construtor de formulários desenvolvido com Next.js.
-- [3dWebRender](https://run3d.vercel.app/): Renderização de gráficos em 3D na web.
+- [Gptalkin 1.0](https://gptalking-10.vercel.app/) : Aplicativo teste de Grid
+- [Playing with React](https://deepspace-two.vercel.app/) : Tem ciencia ai!!!
 
 ### 📈 Estatísticas e Atividades
 
