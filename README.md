@@ -1,3 +1,35 @@
+## Olá, eu sou Getulio Gutemberg! 👋
+
+Sou desenvolvedor de software e crio soluções inovadoras usando linhas de código. Constantemente me aprimorando e explorando novas tecnologias, estou sempre em busca de desafios interessantes para enfrentar e problemas para resolver.
+
+### 🚀 Tecnologias
+
+- Frontend: React.js, Vue.js
+- Backend: Node.js, Express
+- Bancos de Dados: MongoDB, PostgreSQL, MySQL
+- Outras: TypeScript, HTML5, CSS3, Git
+
+### 💼 Projetos
+
+- [Nome do Projeto](link): Uma breve descrição do projeto e suas principais funcionalidades.
+- [Nome do Projeto](link): Uma breve descrição do projeto e suas principais funcionalidades.
+- [Nome do Projeto](link): Uma breve descrição do projeto e suas principais funcionalidades.
+
+### 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=getuliogutemberg&show_icons=true&theme=dark)
+
+### 📫 Como entrar em contato
+
+- LinkedIn: [Getulio Gutemberg](https://www.linkedin.com/in/getuliogutemberg/)
+- Email: seuemail@example.com
+- WhatsApp: [Enviar mensagem](https://wa.me/5581992079191)
+
+### 📄 Currículo
+
+- [Baixar Currículo](link): Saiba mais sobre minha experiência e habilidades.
+
+  
 <p align="right" ><frame src="https://komarev.com/ghpvc/?username=getuliogutemberg&label=Visitors:&color=red&style=flat"></frame> </p>
 
 
