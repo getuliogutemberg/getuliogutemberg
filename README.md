@@ -13,6 +13,7 @@ Sou um entusiasta do desenvolvimento de software, apaixonado por criar soluçõe
 
 Aqui estão alguns dos meus projetos mais recentes:
 
+- [Util 4.0](https://utind.com.br/): plataforma de feedback preditivos desenvolvido com modelos de ia voltado para setor industrial.
 - [BikeTrack Telemetry](https://github.com/getuliogutemberg/biketrack-telemetry-app): BikeTrack Telemetry is a web application built to track telemetry data from bicycles.
 - [Socket App ](https://github.com/getuliogutemberg/socketapp): Pra recordar o socket.
 - [Next Social APIREST](https://capybaquigrafo-apirest.vercel.app/): Uma APIREST para uma rede social desenvolvida com Next.js.
