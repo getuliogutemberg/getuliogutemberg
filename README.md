@@ -31,12 +31,9 @@ Aqui estão alguns dos meus projetos mais recentes:
 - WhatsApp: [Enviar mensagem](https://wa.me/5581992079191)
 - Instagram: [getuliogutemberg](https://www.instagram.com/getuliogutemberg/)
 
-### 📄 Currículo
 
-- [Baixar Currículo](link): Saiba mais sobre minha experiência e habilidades.-um-filename=GetulioGutemberg_CV.pdf" >Download Resume</a></code>
-</p>
 
-</details>
+
 
 
 
