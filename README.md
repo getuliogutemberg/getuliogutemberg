@@ -1,6 +1,6 @@
 ## Olá, eu sou Getulio Gutemberg! 👋
 
-Sou um entusiasta do desenvolvimento de software, apaixonado por criar soluções inovadoras usando linhas de código. Constantemente me aprimorando e explorando novas tecnologias, estou sempre em busca de desafios interessantes para enfrentar e problemas para resolver.
+Sou desenvolvedor de software e crio soluções usando linhas de código. Constantemente me aprimorando e explorando novas tecnologias, estou sempre em busca de desafios interessantes para enfrentar e problemas para resolver.
 
 ### 🚀 Stacks
 
