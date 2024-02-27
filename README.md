@@ -1,10 +1,10 @@
 ## Olá, eu sou Getulio Gutemberg! 👋
 
-Sou desenvolvedor de software e crio soluções usando linhas de código. Constantemente me aprimorando e explorando novas tecnologias, estou sempre em busca de desafios interessantes para enfrentar e problemas para resolver.
+Sou desenvolvedor web e uso tecnologia para criar soluções inovadoras. Estou sempre me aprimorando e explorando novas stacks, sempre buscando novos desafios e oportunidades para resolver.
 
 ### 🚀 Stacks
 
-- Desenvolvimento Frontend: Next.js, React
+- Desenvolvimento Frontend: Next.js, React,
 - Desenvolvimento Backend: Node.js
 - Banco de Dados: MongoDB, Postgres, Firebase
 - Outras Tecnologias: HTML, CSS, JavaScript, TypeScript, Socket.IO, Material UI, Laravel, PHP, Python
@@ -28,9 +28,9 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 ### 📫 Como entrar em contato
 
-- LinkedIn: [Getulio Gutemberg](https://www.linkedin.com/in/getuliogutemberg/)
+- LinkedIn: [Clique aqui!](https://www.linkedin.com/in/getuliogutemberg/)
 - WhatsApp: [Enviar mensagem](https://wa.me/5581992079191)
-- Instagram: [getuliogutemberg](https://www.instagram.com/getuliogutemberg/)
+- Instagram: [@getuliogutemberg](https://www.instagram.com/getuliogutemberg/)
 
 
 
