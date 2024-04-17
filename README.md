@@ -2,7 +2,7 @@
 
 I'm a software engineer based in Recife with 3 years of experience in the software industry. My focus area for the past few years has been front-end development with React, but I'm also skilled in back-end development with Node.
 
-### 🚀 Stacks
+### 🚀 Skills
 
 - Frontend Development: Next.js, React,
 - Backend Development: Node.js
