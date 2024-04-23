@@ -27,7 +27,7 @@ Here are some of my most recent projects:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=getuliogutemberg&show_icons=true&theme=dark)
 
 ### 📫 Contact
-
+- E-mail: [getulio.dec@gmail.com](getulio.dec@gmail.com)
 - LinkedIn: [Click here!](https://www.linkedin.com/in/getuliogutemberg/)
 - WhatsApp: [Send Message](https://wa.me/5581992079191)
 - Instagram: [@getuliogutemberg](https://www.instagram.com/getuliogutemberg/)
