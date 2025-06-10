@@ -1,26 +1,26 @@
 # 👋 Hey, I'm Getulio Gutemberg
 
-### Desenvolvedor Full Stack | Node.js | React | TypeScript | Docker | PostgreSQL | MongoDB | PHP | SaaS | Power BI | Escalabilidade
+### Full Stack Developer | Node.js | React | TypeScript | Docker | PostgreSQL | MongoDB | PHP | SaaS | Power BI | Scalability
 
 ---
 
-Sou desenvolvedor full stack com experiência sólida na construção de aplicações web escaláveis, usando tecnologias modernas no front-end (React, MUI, TypeScript) e no back-end (Node.js, Express, PHP).  
-Atuo em sistemas SaaS multi-tenant, plataformas modulares, integrações com serviços externos e soluções em tempo real com WebSockets.
+I’m a full stack developer with solid experience building scalable web applications using modern front-end technologies (React, MUI, TypeScript) and back-end tools (Node.js, Express, PHP).  
+I work on multi-tenant SaaS systems, modular platforms, external service integrations, and real-time solutions with WebSockets.
 
 ---
 
-### 🚀 Meus diferenciais
+### 🚀 My Strengths
 
-- Código limpo, testável e escalável (Clean Code, SOLID)  
-- Arquiteturas bem estruturadas, focadas em performance e manutenção  
-- Interfaces modernas, responsivas e modulares  
-- Adaptação rápida a qualquer cenário: projetos novos, legado ou alta complexidade  
-- Foco em visão arquitetural, decisão estratégica e colaboração em equipe  
-- Atualizado nas stacks e ferramentas que entregam soluções robustas e simples  
+- Clean, testable, and scalable code (Clean Code, SOLID principles)  
+- Well-structured architectures focused on performance and maintainability  
+- Modern, responsive, and modular user interfaces  
+- Fast adaptation to any scenario: new projects, legacy systems, or high complexity environments  
+- Focus on architectural vision, strategic decision-making, and team collaboration  
+- Always up-to-date with stacks and tools that deliver robust and simple solutions  
 
 ---
 
-### 💻 Tecnologias & Ferramentas
+### 💻 Technologies & Tools
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
 
@@ -41,25 +41,25 @@ Atuo em sistemas SaaS multi-tenant, plataformas modulares, integrações com ser
 
 ---
 
-### 📊 Projetos em destaque
+### 📊 Featured Projects
 
 - **[Util 4.0](https://utind.com.br/)**  
-  Plataforma preditiva de alarmes para indústria, com frontend em React e backend em Node.js + Express, integrando modelos de IA.
+  Predictive alarm platform for industry, with React frontend and Node.js + Express backend, integrating AI models.
 
 - **[BikeTrack Telemetry](https://github.com/getuliogutemberg/biketrack-telemetry-app)**  
-  Aplicação web para monitoramento de dados em tempo real usando React e WebSockets via Socket.IO.
+  Real-time telemetry tracking app for bicycles using React and WebSockets via Socket.IO.
 
 - **[Socket App](https://github.com/getuliogutemberg/socketapp)**  
-  Aplicativo focado em comunicação em tempo real com padrões avançados de Socket.IO.
+  App focused on real-time socket communication and advanced Socket.IO patterns.
 
 - **[Next Social APIREST](https://capybaquigrafo-apirest.vercel.app/)**  
-  API REST para rede social desenvolvida com Next.js e Express.
+  REST API for social networking built with Next.js and Express.
 
 - **[Next Social App](https://capybaquigrafo.vercel.app/)**  
-  Aplicação front-end social construída com Next.js consumindo a API acima.
+  Social networking frontend built with Next.js consuming the above API.
 
 - **[Next Form Builder](https://next-form-builder.vercel.app/)**  
-  Construtor dinâmico de formulários com React e Next.js.
+  Dynamic form builder powered by React and Next.js.
 
 ---
 
@@ -69,7 +69,7 @@ Atuo em sistemas SaaS multi-tenant, plataformas modulares, integrações com ser
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 - 📧 [getulio.dev@gmail.com](mailto:getulio.dev@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/getuliogutemberg/)  
@@ -79,5 +79,5 @@ Atuo em sistemas SaaS multi-tenant, plataformas modulares, integrações com ser
 ---
 
 <p align="center">
-  <em>Construindo código limpo e soluções que geram valor real.</em>
+  <em>Building clean code and solutions that deliver real value.</em>
 </p>
