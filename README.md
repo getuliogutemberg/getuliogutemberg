@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Getulio Gutemberg
 
 ### Full Stack Developer | Node.js | React | TypeScript | Docker | PostgreSQL | MongoDB | PHP | SaaS | Power BI | Scalability
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getuliogutemberg&layout=compact&theme=dark)
 ---
 
 I’m a full stack developer with solid experience building scalable web applications using modern front-end technologies (React, MUI, TypeScript) and back-end tools (Node.js, Express, PHP).  
@@ -60,7 +60,7 @@ I work on multi-tenant SaaS systems, modular platforms, external service integra
 
 - **[Next Form Builder](https://next-form-builder.vercel.app/)**  
   Dynamic form builder powered by React and Next.js.
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=getuliogutemberg&theme=dark)
 ---
 
 ### 📈 GitHub Stats
@@ -77,7 +77,7 @@ I work on multi-tenant SaaS systems, modular platforms, external service integra
 - 📸 [Instagram](https://www.instagram.com/getuliogutemberg/)  
 
 ---
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=getuliogutemberg)
 <p align="center">
-  <em>Building clean code and solutions that deliver real value.</em>
+  <em>![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)</em>
 </p>
