@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Getulio Gutemberg
 ### Full Stack Developer | Node.js | React | TypeScript | Docker | PostgreSQL | MongoDB | PHP | SaaS | Power BI | Scalability
-![visitors](https://visitor-badge.glitch.me/badge?page_id=getuliogutemberg)
+
 
 ---
 
